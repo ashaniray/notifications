@@ -22,6 +22,9 @@ gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0', group: :doc
 gem 'haml-rails'
 gem 'bootstrap-sass'
+gem 'bson_ext'
+gem 'mongoid'
+gem 'devise'
 
 
 # Use ActiveModel has_secure_password
